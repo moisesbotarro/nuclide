@@ -559,7 +559,7 @@ class FileParser {
 
   /**
    * Helper function that parses an method definition in a class.
-   * @param defintion - The ClassMethod AST node.
+   * @param definition - The ClassMethod AST node.
    * @returns A record containing the name of the method, and a FunctionType object
    *   encoding the arguments and return type of the method.
    */
